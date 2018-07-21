@@ -1,2 +1,2 @@
 # RollBack
-Retry all basic concepts on algorithms and Multithreading
+Retry all basic concepts on algorithms and Multi-threading
